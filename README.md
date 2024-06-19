@@ -10,13 +10,14 @@
 - Dinh Vu Ngoc Linh - ITDSIU21095
   
 ## I. Introduction
-We chose sorting algorithms as the core factor for our project to revise what we have learnt in the theory classes and put the coding skills we have learnt in practice.
+We chose sorting algorithms as the core factor for our project to revise what we have learnt in the theory classes and put the coding skills we have learnt in practice. The app was our first version, and then we decided to build a website for a better look.
 
 ## II. Techniques
 - IDE for Website: HTML/CSS/JavaScript.
 - IDE for App: Java.
 
 ### 1. App version
-- Here is the version of the project in app which is written by Java.
+- Here is the version of the project in app which is written by Java. 
 ![image](https://github.com/DinhVuNgocLinh/DSA-Project/assets/125757646/ad3dbe72-c51e-476d-a41f-9b6d2f10b68a)
 
+### 2. Website version
